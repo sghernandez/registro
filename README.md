@@ -1,2 +1,2 @@
 # registro
-PHP, MVC, PDO, NAMESPACES - SIN USAR ALGUN FRAMEWORK
+PHP, MVC, PDO, Namespaces - Sin Framework.
